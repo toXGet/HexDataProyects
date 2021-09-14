@@ -1,2 +1,2 @@
-# HospitalizacionProy
-Proyecto del Grupo Hex Data UCaldasTIC Ciclo 3 
+# Repositorio del Grupo Hex Data
+Proyectos del Grupo Hex Data UCaldasTIC Ciclo 3 
