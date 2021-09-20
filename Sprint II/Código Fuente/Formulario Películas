@@ -1,0 +1,88 @@
+@page "/"
+
+<h2>PELÍCULAS HexData</h2>
+
+<div>
+    <div class="mb-3">
+        <label for="name">Nombre de la película</label>
+        <input class="form-control form-control" type="text" placeholder="Nombre"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="premier">Año de estreno</label>
+        <input class="form-control form-control" type="number" placeholder="Año"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="director">Director de la película</label>
+        <input class="form-control form-control" type="text" placeholder="Director"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="gender">Genero de la película</label>
+        <select class="form-select">
+            <option selected>Selecciona el género</option>
+            <option value="1">Acción</option>
+            <option value="2">Drama</option>
+            <option value="3">Infantil</option>
+            <option value="4">Romance</option>
+            <option value="5">Suspenso</option>
+            <option value="6">Terror</option>
+        </select>
+    </div>
+    
+    <div class="mb-3">
+        <label for="actors">Actores principales</label>
+        <input class="form-control form-control" type="text" placeholder="Nombre de los actores"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="country">Pais de origen</label>
+        <input class="form-control form-control" type="text" placeholder="Pais de origen"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="duration">Duración</label>
+        <input class="form-control form-control" type="number" placeholder="Duración de la película"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="language">Idioma original</label>
+        <input class="form-control form-control" type="text" placeholder="Idioma"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="awards">Premios</label>
+        <input class="form-control form-control" type="text" placeholder="Premios"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="mb-3">
+        <label for="classification">Clasificación de la película</label>
+        <input class="form-control form-control" type="text" placeholder="Clasificación"
+            aria-label=".form-control-sm example">
+    </div>
+
+    <div class="form-group row">
+        <label for="synopsis" class="col-md-2 col-form-label">Sinopsis de la película</label>
+        <div class="col-md-10">
+            <textarea name="synopsis" id="synopsis" cols="30" rows="10" placeholder="Sinopsis de la película" class="form-control">
+            </textarea>
+        </div>
+    </div>
+
+    <div class="mb-3">
+        <label for="qualification">Te gusto la pelícuala?</label>
+        <button class="btn" type="button"> Me gusto</button>
+        <button class="btn" type="button"> No me gusto</button>
+
+    </div>
+
+</div>
