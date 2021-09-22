@@ -13,9 +13,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Formulario para el proyecto peliculas
+  2. ¿Qué hará hoy? Estudiar como usar Figma
+  3. ¿Qué dificultades ha tenido? Poco tiempo para cumplir con las actividades
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -43,9 +43,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Aprender uso de Figma
+  2. ¿Qué hará hoy? Paso a paso clase Martes 21 sep
+  3. ¿Qué dificultades ha tenido? Falta de organización en las tareas
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -59,7 +59,7 @@
 ****************************************************************************************************
 ### Miercoles:
 **Enlace grabación reunión:**   
-**Fecha:** Septiembre 21 de 2021
+**Fecha:** Septiembre 22 de 2021
 #
 **Lider: Juan David Peñuela**
   1. ¿Qué hizo ayer?
@@ -72,9 +72,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Paso a paso Clase de ayer
+  2. ¿Qué hará hoy? Terminar paso a paso, aprender uso de figma
+  3. ¿Qué dificultades ha tenido? Aprender el uso de figma toma mucho tiempo
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -88,7 +88,7 @@
 ****************************************************************************************************
 ### Jueves:
 **Enlace grabación reunión:**   
-**Fecha:** Septiembre 21 de 2021
+**Fecha:** Septiembre 23 de 2021
 #
 **Lider: Juan David Peñuela**
   1. ¿Qué hizo ayer?
@@ -117,7 +117,7 @@
 ****************************************************************************************************
 ### Viernes:
 **Enlace grabación reunión:**   
-**Fecha:** Septiembre 21 de 2021
+**Fecha:** Septiembre 24 de 2021
 #
 **Lider: Juan David Peñuela**
   1. ¿Qué hizo ayer?
