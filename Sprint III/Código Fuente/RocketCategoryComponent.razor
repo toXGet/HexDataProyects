@@ -1,0 +1,31 @@
+<div class="jumbotron">
+    <h6>Cohetes Listados Por Tipo de Tripulación</h6>
+    @foreach (var cohete in Rockets)
+    {
+        <div class="list-group mb-3">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="@cohete.RocketImage" class="img-thumbnail" alt="" width="150px" height="200px">
+                </div>
+                <div class="col-md-9">
+                    <h5 class="text-center">
+                        Nombre del Cohete: <small class="text-muted">@cohete.RocketName</small>
+                    </h5>
+                    <blockquote class="blockquote text-center">
+                        Descripción:
+                        <small class="text-muted">@cohete.RocketDescription</small>
+                        <br>
+                        Agencia Espacial:
+                        <small class="text-muted">@cohete.SpaceAgency</small>
+                        <footer class="blockquote-footer">
+                            <cite>@cohete.PublicationDate.ToString("dd/MM/yyyy")</cite>
+                        </footer>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+@code{
+    [Parameter] public List<Rocket> Rockets {get;set;}
+}

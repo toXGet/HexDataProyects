@@ -1,0 +1,80 @@
+@page "/categorylistgroup"
+<div class="jumbotron">
+    <RocketCategoryComponent Rockets="GetRocketsManed()"/>
+    <RocketCategoryComponent Rockets="GetRocketsUnmaned()"/>
+</div>
+
+@code {
+    private List<Rocket> GetRocketsManed()
+    {
+        return new List<Rocket>()
+        {
+            new Rocket()
+            {   
+                RocketName = "Antares", RocketDescription = "Sistema de lanzamiento desechable",
+                SpaceAgency = "OSC - NASA", RocketImage = "/Images/Cohete-Antares.jpg",
+                PublicationDate = new DateTime(2021, 09, 20)},
+            new Rocket()
+            {
+                RocketName = "Soyuz", RocketDescription = "La columna vertebral del programa espacial Ruso",
+                SpaceAgency = "Roscosmos", RocketImage = "/Images/Cohete-Soyuz.jpg",
+                PublicationDate = new DateTime(2021, 08, 18)},
+            new Rocket()
+            {
+                RocketName = "Hayabusa", RocketDescription = "Parte del desarollo espacial Japonés",
+                SpaceAgency = "Jaxa", RocketImage = "/Images/Cohete-Hayabusa.jpg",
+                PublicationDate = new DateTime(2021, 07, 15)},
+            new Rocket()
+            {
+                RocketName = "GSLV", RocketDescription = "Primer cohete del programa espacial Indú",
+                SpaceAgency = "Indian Space Research Organisation (ISRO)", RocketImage = "/Images/Cohete-GSLV.jpg",
+                PublicationDate = new DateTime(2021, 09, 15)},
+            new Rocket()
+            {
+                RocketName = "Vega", RocketDescription = "Producto de la Colaboración de varios paises de la U.E.",
+                SpaceAgency = "ESO", RocketImage = "/Images/Cohete-Vega.jpg",
+                PublicationDate = new DateTime(2021, 08, 20)},
+            new Rocket()
+            {
+                RocketName = "V2", RocketDescription = "Para muchos es el origen de los cohetes actuales",
+                SpaceAgency = "Alemania", RocketImage = "/Images/Cohete-V2.jpg",
+                PublicationDate = new DateTime(2021, 07, 20)}
+        };
+    }
+    private List<Rocket> GetRocketsUnmaned()
+    {
+        return new List<Rocket>()
+        {
+            new Rocket()
+            {
+                RocketName = "Ariane 5", RocketDescription = "El cohete con más lanzamientos exitosos de la ESA",
+                SpaceAgency = "ESA", RocketImage = "/Images/Cohete-Ariane5.jpg",
+                PublicationDate = new DateTime(2021, 06, 21)},
+            new Rocket()
+            {
+                RocketName = "Delta", RocketDescription = "La familia de cohetes Delta lleva en servicio desde agosto de 1960",
+                SpaceAgency = "NASA", RocketImage = "/Images/Cohete-Delta.jpg",
+                PublicationDate = new DateTime(2021, 08, 19)},
+            new Rocket()
+            {
+                RocketName = "Proton M", RocketDescription = "Potente lanzador sin tripulación soviético heredado por Rusia",
+                SpaceAgency = "Roscosmos", RocketImage = "/Images/Cohete-Proton.jpg",
+                PublicationDate = new DateTime(2021, 07, 12)},
+            new Rocket()
+            {
+                RocketName = "OneSpace", RocketDescription = "Primer cohete lanzado de empresas privadas Chinas",
+                SpaceAgency = "OneSpace", RocketImage = "/Images/Cohete-OneSpace.webp",
+                PublicationDate = new DateTime(2021, 09, 17)},
+            new Rocket()
+            {
+                RocketName = "Safir", RocketDescription = "Parte del desarrollo espacial de Irán, no tripulado.",
+                SpaceAgency = "Iranian Space Agency (ISA)", RocketImage = "/Images/Cohete-Safir.jpg",
+                PublicationDate = new DateTime(2021, 08, 24)},
+            new Rocket()
+            {
+                RocketName = "Falcon 9", RocketDescription = "Vehículo de lanzamiento parcialmente reutilizable de dos etapas.",
+                SpaceAgency = "SpaceX - NASA", RocketImage = "/Images/Cohete-Falcon9.jpg",
+                PublicationDate = new DateTime(2021, 07, 25)}
+        };
+    }
+}

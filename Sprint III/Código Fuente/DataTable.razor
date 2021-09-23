@@ -1,0 +1,61 @@
+@page "/datatable"
+<div class="jumbotron">
+    <table class="table table-striped table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Nombre Cohete</th>
+                <th scope="col">Descripción</th>
+                <th scope="col">Agencia Espacial</th>
+                <th scope="col">Imagen</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cohete in GetRocket()){
+                <tr>
+                    <th scope="row">@cohete.RocketName</th>
+                    <td>@cohete.RocketDescription</td>
+                    <td>@cohete.SpaceAgency</td>
+                    <td>@cohete.RocketImage</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@code{
+    private List<Rocket> GetRocket()
+    {
+        return new List<Rocket>()
+        {
+            new Rocket()
+            {   
+                RocketName = "Antares", RocketDescription = "Sistema de lanzamiento desechable",
+                SpaceAgency = "OSC - NASA", RocketImage = "/Images/Cohete-Antares.jpg",
+                PublicationDate = new DateTime(2021, 09, 20)},
+            new Rocket()
+            {
+                RocketName = "Soyuz", RocketDescription = "La columna vertebral del programa espacial Ruso",
+                SpaceAgency = "Roscosmos", RocketImage = "/Images/Cohete-Soyuz.jpg",
+                PublicationDate = new DateTime(2021, 08, 18)},
+            new Rocket()
+            {
+                RocketName = "Hayabusa", RocketDescription = "Parte del desarollo espacial Japonés",
+                SpaceAgency = "Jaxa", RocketImage = "/Images/Cohete-Hayabusa.jpg",
+                PublicationDate = new DateTime(2021, 07, 15)},
+            new Rocket()
+            {
+                RocketName = "GSLV", RocketDescription = "Primer cohete del programa espacial Indú",
+                SpaceAgency = "Indian Space Research Organisation (ISRO)", RocketImage = "/Images/Cohete-GSLV.jpg",
+                PublicationDate = new DateTime(2021, 09, 15)},
+            new Rocket()
+            {
+                RocketName = "Vega", RocketDescription = "Producto de la Colaboración de varios paises de la U.E.",
+                SpaceAgency = "ESO", RocketImage = "/Images/Cohete-Vega.jpg",
+                PublicationDate = new DateTime(2021, 08, 20)},
+            new Rocket()
+            {
+                RocketName = "V2", RocketDescription = "Para muchos es el origen de los cohetes actuales",
+                SpaceAgency = "Alemania", RocketImage = "/Images/Cohete-V2.jpg",
+                PublicationDate = new DateTime(2021, 07, 20)}
+        };
+    }
+}
