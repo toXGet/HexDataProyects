@@ -3,9 +3,9 @@
 **Fecha:** Septiembre 20 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer?repasar videos de moddle
+  2. ¿Qué hará hoy?reunion virtual de grupo 
+  3. ¿Qué dificultades ha tenido? ir todos a delantados al tiempo
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
@@ -33,9 +33,9 @@
 **Fecha:** Septiembre 21 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer?relisar paso a paso de la clase del lunes 
+  2. ¿Qué hará hoy?reunion virtual y repaso 
+  3. ¿Qué dificultades ha tenido?disponivilidad de tiempo 
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
@@ -62,9 +62,9 @@
 **Fecha:** Septiembre 22 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer?revisar moddle
+  2. ¿Qué hará hoy?reunion de whatsapp
+  3. ¿Qué dificultades ha tenido? ninguna
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
@@ -93,9 +93,9 @@
 **Fecha:** Septiembre 23 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer?videos de la plataforma
+  2. ¿Qué hará hoy?reunion de meet
+  3. ¿Qué dificultades ha tenido? ninguna
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
