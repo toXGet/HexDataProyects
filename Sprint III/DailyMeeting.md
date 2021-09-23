@@ -82,9 +82,11 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Administrador de Configuración: Carlos Zabala**
-  1. ¿Qué hizo ayer?: 
-  2. ¿Qué hará hoy?: 
-  3. ¿Qué dificultades ha tenido?: 
+  1. ¿Qué hizo ayer?: Reunión del paso a paso de la clase del Martes.
+  2. ¿Qué hará hoy?: Lo aprendido en el paso a paso en un proyecto de Galería de Cohetes y subirlo
+                     a GitHub como aprendizaje práctico de Blazor, Git y GitHub.
+  4. ¿Qué dificultades ha tenido?: Dudas sobre la Necesidad y utilidad de .net hacen que se me haga
+                                   más pesado el aprendizaje.
 ****************************************************************************************************
 ### Jueves:
 **Enlace grabación reunión:**   
