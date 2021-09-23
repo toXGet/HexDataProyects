@@ -1,0 +1,39 @@
+@page "/counter"
+<div class="jumbotron">
+    <img src="@Cohete1.RocketImage" class="img-fluid">
+    <h5 class="text-center">
+        Nombre del Cohete: <small class="text-muted">@Cohete1.RocketName</small>
+    </h5>
+    <blockquote class="blockquote text-center">
+        Descripción:
+        <p class="mp-0">
+            <small class="text-muted">@Cohete1.RocketDescription</small>
+        </p>
+        Agencia Espacial:
+        <p class="mp-0"><small class="text-muted">@Cohete1.SpaceAgency</small></p>
+        <footer class="blockquote-footer">
+            <cite>@Cohete1.PublicationDate.ToString("dd/MM/yyyy")</cite>
+        </footer>
+    </blockquote>
+</div>
+@code {
+    @* Función private que retorna la información del Cohete mediante una instancia *@
+    private Rocket GetRocket()
+    {
+        @* Este fragmento de código sólo sirve para crear un único objeto de la clase *@
+        return new Rocket()
+        {
+            RocketName = "Long March 5b",
+            RocketDescription = "Cohete usado especialmente para grandes cargas",
+            SpaceAgency = "China National Space Administration (CNSA)",
+            RocketImage = "/Images/Cohete-LongMarch.jpg",
+            PublicationDate = new DateTime(2021, 09, 21)
+        };
+    }
+
+    @* Las propiedades inicializadas en el GetRocket se lo asociamos a una instancia *@
+    public Rocket Cohete1
+    {
+        get { return GetRocket(); }
+    }
+}

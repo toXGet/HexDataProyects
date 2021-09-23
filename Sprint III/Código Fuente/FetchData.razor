@@ -1,0 +1,67 @@
+﻿@page "/fetchdata"
+<div class="jumbotron">
+    @foreach (var cohete in GetRocket())
+    {
+        <div class="list-group mb-3">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="@cohete.RocketImage" class="img-thumbnail" alt="" width="150px" height="200px">
+                </div>
+                <div class="col-md-9">
+                    <h5 class="text-center">
+                        Nombre del Cohete: <small class="text-muted">@cohete.RocketName</small>
+                    </h5>
+                    <blockquote class="blockquote text-center">
+                        Descripción:
+                        <small class="text-muted">@cohete.RocketDescription</small>
+                        <br>
+                        Agencia Espacial:
+                        <small class="text-muted">@cohete.SpaceAgency</small>
+                        <footer class="blockquote-footer">
+                            <cite>@cohete.PublicationDate.ToString("dd/MM/yyyy")</cite>
+                        </footer>
+                    </blockquote>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    private List<Rocket> GetRocket()
+    {
+        return new List<Rocket>()
+        {
+            new Rocket()
+            {   
+                RocketName = "Antares", RocketDescription = "Sistema de lanzamiento desechable",
+                SpaceAgency = "OSC - NASA", RocketImage = "/Images/Cohete-Antares.jpg",
+                PublicationDate = new DateTime(2021, 09, 20)},
+            new Rocket()
+            {
+                RocketName = "Soyuz", RocketDescription = "La columna vertebral del programa espacial Ruso",
+                SpaceAgency = "Roscosmos", RocketImage = "/Images/Cohete-Soyuz.jpg",
+                PublicationDate = new DateTime(2021, 08, 18)},
+            new Rocket()
+            {
+                RocketName = "Hayabusa", RocketDescription = "Parte del desarollo espacial Japonés",
+                SpaceAgency = "Jaxa", RocketImage = "/Images/Cohete-Hayabusa.jpg",
+                PublicationDate = new DateTime(2021, 07, 15)},
+            new Rocket()
+            {
+                RocketName = "GSLV", RocketDescription = "Primer cohete del programa espacial Indú",
+                SpaceAgency = "Indian Space Research Organisation (ISRO)", RocketImage = "/Images/Cohete-GSLV.jpg",
+                PublicationDate = new DateTime(2021, 09, 15)},
+            new Rocket()
+            {
+                RocketName = "Vega", RocketDescription = "Producto de la Colaboración de varios paises de la U.E.",
+                SpaceAgency = "ESO", RocketImage = "/Images/Cohete-Vega.jpg",
+                PublicationDate = new DateTime(2021, 08, 20)},
+            new Rocket()
+            {
+                RocketName = "V2", RocketDescription = "Para muchos es el origen de los cohetes actuales",
+                SpaceAgency = "Alemania", RocketImage = "/Images/Cohete-V2.jpg",
+                PublicationDate = new DateTime(2021, 07, 20)}
+        };
+    }
+}

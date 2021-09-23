@@ -1,0 +1,47 @@
+@page "/asynctask"
+<div class="jumbotron">
+  @if (Rockets == null){
+    <img src="/Images/loading.gif" class="rounded mx-auto d-block" alt="Responsive image">
+  }
+  else{
+    for (int i = 0; i < Rockets.Count; i++){
+      <div class="list-group mb-3">
+        <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+          <div class="row">
+            <div class="col-md-3">
+              <img class="img-thumbnail" src=@Rockets[i].RocketImage alt="" height="200px" width="150px">
+            </div>  
+              <div class="col-md-9">
+                <h4 class="text-left">
+                  Nombre:
+                  <small class="text-muted">@Rockets[i].RocketName</small>
+                </h4>
+                <p class="mb-0 text-left">@Rockets[i].RocketDescription</p>
+                <footer class="blockquote-footer text-left">Fecha de la publicación:
+                <cite title="Source Title">@Rockets[i].PublicationDate.ToString("dd/MM/yyyy")</cite>
+                </footer>
+              </div>
+          </div>  
+        </a>
+      </div>
+    }
+  }
+</div>
+
+@code {
+  public List<Rocket> Rockets;
+  private List<Rocket> GetRocket()
+  {
+    return new List<Rocket>(){
+      new Rocket(){RocketName = "Long March", RocketDescription = "Diseñado especialmente para cargas pesadas", RocketImage = "/Images/Cohete-LongMarch.jpg"},
+      new Rocket(){RocketName = "Proton M", RocketDescription = "Potente lanzador sin tripulación Ruso", RocketImage = "/Images/Cohete-Proton.jpg"},
+      new Rocket(){RocketName = "Hayabusa", RocketDescription = "Parte del desarollo espacial Japonés", RocketImage = "/Images/Cohete-Hayabusa.jpg"},
+    };
+  }
+  protected override async Task OnInitializedAsync()
+  {
+    @* La información de la página se va a demorar 3 seg en cargar *@
+    await Task.Delay(3000);
+    Rockets = GetRocket();
+  }
+}
