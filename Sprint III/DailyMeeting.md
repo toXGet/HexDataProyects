@@ -58,7 +58,7 @@
   3. ¿Qué dificultades ha tenido?: Entender Blazor/Razor y su necesidad para hacer WebApps.
 ****************************************************************************************************
 ### Miercoles:
-**Enlace grabación reunión:**   
+**Enlace grabación reunión:** Hablamos Via Whatsapp en el chat del grupo   
 **Fecha:** Septiembre 22 de 2021
 #
 **Lider: Juan David Peñuela**
@@ -113,9 +113,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Administrador de Configuración: Carlos Zabala**
-  1. ¿Qué hizo ayer?: 
-  2. ¿Qué hará hoy?: 
-  3. ¿Qué dificultades ha tenido?: 
+  1. ¿Qué hizo ayer?: Subí el ejercicio a GitHub desde la línea de comandos local. Busqué páginas similares a la de películas para tener inspiración.
+  2. ¿Qué hará hoy?: Reunión de equipo.
+  3. ¿Qué dificultades ha tenido?: Como otras veces el tiempo y la curva de aprendizaje cada vez es más difícil.
 ****************************************************************************************************
 ### Viernes:
 **Enlace grabación reunión:**   
