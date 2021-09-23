@@ -9,8 +9,12 @@
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  sin novedad
+  3. ¿Qué hará hoy?
+  Hacer el paso a paso de la profesora
+  5. ¿Qué dificultades ha tenido?
+  CONEXIÓN ENTRE EL PROYECTO SERVER Y CLIENT MEDIANTE SHARE
+  PROYECTO
 #
 **Diseñador IU: Luz Mary Diaz**
   1. ¿Qué hizo ayer? Formulario para el proyecto peliculas
@@ -39,8 +43,11 @@
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  paso a paso de la profesora
+  3. ¿Qué hará hoy?
+  Intentar terminar el paso a paso
+  5. ¿Qué dificultades ha tenido?
+  sin dificultades
 #
 **Diseñador IU: Luz Mary Diaz**
   1. ¿Qué hizo ayer? Aprender uso de Figma
@@ -68,8 +75,11 @@
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  intentar terminar el paso a paso
+  3. ¿Qué hará hoy?
+  revisar el moddle
+  5. ¿Qué dificultades ha tenido?
+  sin novedad
 #
 **Diseñador IU: Luz Mary Diaz**
   1. ¿Qué hizo ayer? Paso a paso Clase de ayer
@@ -99,8 +109,11 @@
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  Revisar el moddle
+  3. ¿Qué hará hoy?
+  Empezar el sprint III
+  5. ¿Qué dificultades ha tenido?
+  sin novedad
 #
 **Diseñador IU: Luz Mary Diaz**
   1. ¿Qué hizo ayer?
@@ -123,8 +136,11 @@
 #
 **Lider: Juan David Peñuela**
   1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido? 
+  Empezar el Sprint III
+  3. ¿Qué hará hoy?
+  Seguir con el Sprint III
+  5. ¿Qué dificultades ha tenido? 
+  sin novedad
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer?
