@@ -99,7 +99,7 @@
                                    más pesado el aprendizaje.
 ****************************************************************************************************
 ### Jueves:
-**Enlace grabación reunión:**   
+**Enlace grabación reunión:** <https://drive.google.com/file/d/1mwNJcROnkR1v7g4MTs07QLU7fd6hEgyY>   
 **Fecha:** Septiembre 23 de 2021
 #
 **Lider: Juan David Peñuela**
