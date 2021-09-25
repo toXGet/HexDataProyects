@@ -131,7 +131,7 @@
   3. ¿Qué dificultades ha tenido?: Como otras veces el tiempo y la curva de aprendizaje cada vez es más difícil.
 ****************************************************************************************************
 ### Viernes:
-**Enlace grabación reunión:**   
+**Enlace grabación reunión:** Comunicación por whatsapp.  
 **Fecha:** Septiembre 24 de 2021
 #
 **Lider: Juan David Peñuela**
@@ -158,6 +158,6 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Administrador de Configuración: Carlos Zabala**
-  1. ¿Qué hizo ayer?: 
-  2. ¿Qué hará hoy?: 
-  3. ¿Qué dificultades ha tenido?: 
+  1. ¿Qué hizo ayer?: Reunión del Equipo.
+  2. ¿Qué hará hoy?: Busqueda de imágenes de posters y sinopsis de películas para popular el ejercicio que debemos entregar, hacer el ejercicio.
+  3. ¿Qué dificultades ha tenido?: Mi Maquina es muy lenta por lo que la compilación muy demorada y la busqueda de errores también es demorada, trabajo dispendioso (buscar peliculas, etc).
