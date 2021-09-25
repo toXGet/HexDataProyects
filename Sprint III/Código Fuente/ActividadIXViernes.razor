@@ -1,0 +1,11 @@
+@page "/servicerockets"
+@inject IService rocket
+<div class="jumbotron">
+    <RocketCategoryComponent Rockets = "Rockets"></RocketCategoryComponent>
+</div>
+@code{
+    private List<Rocket> Rockets;
+    protected override void OnInitialized(){
+        Rockets = rocket.GetRocket();
+    }    
+}
