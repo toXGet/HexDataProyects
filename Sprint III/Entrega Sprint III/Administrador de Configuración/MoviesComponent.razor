@@ -1,0 +1,34 @@
+<div class="jumbotron">
+    @* <h6>Películas</h6> *@
+    <div class="container-fluid">
+        <div class="row mb-3">
+            @foreach (var movie in Movies)
+            {
+                <div class="col-md-4">
+                    @* <div class="card flex-md-row mb-3 box-shadow">
+                        <div class="card-body d-flex flex-column align-items-center"> *@
+                            <div class="card mb-3" style="width: 18rem;">
+                            <img src="@movie.Poster" class="card-img-top rounded-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title text-center">@movie.Title</h5>
+                                <p class="card-text text-right">@movie.Genero</p>
+                                <p class="card-text">@movie.Sinopsis</p>
+                            </div>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Idioma: @movie.Language</li>
+                                <li class="list-group-item">País de Origen: @movie.Country</li>
+                                <li class="list-group-item">Rating TMDB: @movie.Score.ToString()</li>
+                                <li class="list-group-item">Duración: @movie.RunningTime.ToString(@"hh\:mm")</li>
+                                <li class="list-group-item">Fecha de Estreno: @movie.Premier.ToString("dd/MM/yyyy")</li>
+                            </ul>
+                            </div>
+                        </div>
+                    @* </div>
+                </div> *@
+            }
+        </div>
+    </div>
+</div>
+@code{
+    [Parameter] public List<Movie> Movies {get;set;}
+}
