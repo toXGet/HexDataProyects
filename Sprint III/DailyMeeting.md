@@ -116,9 +116,9 @@
   sin novedad
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Paso a paso
+  2. ¿Qué hará hoy? Sin novedad
+  3. ¿Qué dificultades ha tenido? No he podido aprender el uso de figma
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -148,9 +148,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Sin novedad
+  2. ¿Qué hará hoy? Paso a paso aplicado a la aplicacion, descarga de informacion para la aplicacion
+  3. ¿Qué dificultades ha tenido? Falta de tiempo para dedicarle a la apliaion, mi computador esta un poco lento
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
