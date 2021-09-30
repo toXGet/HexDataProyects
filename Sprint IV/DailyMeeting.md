@@ -13,9 +13,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Terminar paso a paso Sprint 3
+  2. ¿Qué hará hoy? Reunión con la tutora
+  3. ¿Qué dificultades ha tenido? El proyecto no me carga en la pagina
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -42,9 +42,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Reunion con la tutora
+  2. ¿Qué hará hoy? Solucionar problema con el proyecto
+  3. ¿Qué dificultades ha tenido? Falta de tiempo, malestar general e irritacion en los ojos
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -71,9 +71,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Solucionar problemas en el proyecto
+  2. ¿Qué hará hoy? Descargar archivos necesarios para empezar la entrega de esta semana
+  3. ¿Qué dificultades ha tenido? Falta de organizacion y tiempo
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -100,9 +100,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Sin novedad
+  2. ¿Qué hará hoy? Paso a paso, clase del martes
+  3. ¿Qué dificultades ha tenido? Me enferme y no me he podido organizar correctamente
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
