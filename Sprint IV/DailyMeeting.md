@@ -129,9 +129,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Pasó a paso del CRUD actores
+  2. ¿Qué hará hoy? CRUD categoría
+  3. ¿Qué dificultades ha tenido? Falta de tiempo
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
