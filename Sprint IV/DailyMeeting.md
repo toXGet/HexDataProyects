@@ -3,9 +3,9 @@
 **Fecha:** Septiembre 27 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? si novedad
+  2. ¿Qué hará hoy? sin novedad
+  3. ¿Qué dificultades ha tenido? sin novedad
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer? 
@@ -32,9 +32,9 @@
 **Fecha:** Septiembre 28 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? sin novedad
+  2. ¿Qué hará hoy? entrar a clase 
+  3. ¿Qué dificultades ha tenido? problemas con un error
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer? 
@@ -61,9 +61,9 @@
 **Fecha:** Septiembre 29 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? revisar material 
+  2. ¿Qué hará hoy? relizar el matrial del paso a paso
+  3. ¿Qué dificultades ha tenido? me sigue persistiendo un error
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer? 
@@ -90,9 +90,9 @@
 **Fecha:** Septiembre 30 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? relizar el paso a paso 
+  2. ¿Qué hará hoy? entrar a clase 
+  3. ¿Qué dificultades ha tenido? no encontrar solucion a problemas
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer? 
@@ -119,9 +119,9 @@
 **Fecha:** Octubre 1 de 2021
 #
 **Lider: Juan David Peñuela**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? reunion de grupo 
+  2. ¿Qué hará hoy? reunion de grupo y verificacion de avances y problamas
+  3. ¿Qué dificultades ha tenido? agendar una cita para la solucion de un error persistente
 #
 **Diseñador de Software: Johan Stiven Hernandez**
   1. ¿Qué hizo ayer? 
