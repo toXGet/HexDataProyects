@@ -18,9 +18,9 @@
   3. ¿Qué dificultades ha tenido? El proyecto no me carga en la pagina
 #
 **Tester: William Andrés Rincón**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer?mirar videos 
+  2. ¿Qué hará hoy?hacer paso a paso
+  3. ¿Qué dificultades ha tenido?tener claro conceptos
 #
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Revisar el codigo hecho.
@@ -105,9 +105,9 @@
   3. ¿Qué dificultades ha tenido? Me enferme y no me he podido organizar correctamente
 #
 **Tester: William Andrés Rincón**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer?revisar videos clases grabadas
+  2. ¿Qué hará hoy?reunion 
+  3. ¿Qué dificultades ha tenido?ponerme a la par con la profesora
 #
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Tratar de solventar dudas con la tutoría individual.
