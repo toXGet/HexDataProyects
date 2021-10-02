@@ -83,7 +83,7 @@
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Clase y tratar de seguir el paso a paso.
   2. ¿Qué hará hoy?: Reunión con tutoría individual y tratar de seguir el paso a paso y el video de la clase.
-  3. ¿Qué dificultades ha tenido?: Falta de motivación.
+  3. ¿Qué dificultades ha tenido?: Falta de tiempo.
 ****************************************************************************************************
 ### Jueves:
 **Enlace grabación reunión:** 
@@ -112,7 +112,7 @@
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Tratar de solventar dudas con la tutoría individual.
   2. ¿Qué hará hoy?: Clase, lo que salga de clase (paso a paso, requerimientos).
-  3. ¿Qué dificultades ha tenido?: La falta de Motivaci
+  3. ¿Qué dificultades ha tenido?: La falta de herramientas para blazor.
 ****************************************************************************************************
 ### Viernes:
 **Enlace grabación reunión:** 
@@ -139,6 +139,6 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Administrador de Configuración: Carlos Zabala**
-  1. ¿Qué hizo ayer?: 
-  2. ¿Qué hará hoy?: 
-  3. ¿Qué dificultades ha tenido?: 
+  1. ¿Qué hizo ayer?: EL paso a paso, subir el proyecto de películas al GitHub.
+  2. ¿Qué hará hoy?: Tratar de arreglar lo hecho en clase pues desarmó el proyecto.
+  3. ¿Qué dificultades ha tenido?: No saber de C#
