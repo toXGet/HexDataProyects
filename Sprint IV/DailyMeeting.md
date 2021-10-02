@@ -28,7 +28,7 @@
   3. ¿Qué dificultades ha tenido?: Ninguna.
 ****************************************************************************************************
 ### Martes:
-**Enlace grabación reunión:** Por whatsapp
+**Enlace grabación reunión:** Coordinación de Funciones Por whatsapp
 **Fecha:** Septiembre 28 de 2021
 #
 **Lider: Juan David Peñuela**
@@ -57,7 +57,7 @@
   3. ¿Qué dificultades ha tenido?: La falta de motivación.
 ****************************************************************************************************
 ### Miercoles:
-**Enlace grabación reunión:** Por Whatsapp
+**Enlace grabación reunión:** Avance de Resultados Por Whatsapp
 **Fecha:** Septiembre 29 de 2021
 #
 **Lider: Juan David Peñuela**
@@ -86,7 +86,7 @@
   3. ¿Qué dificultades ha tenido?: Falta de tiempo.
 ****************************************************************************************************
 ### Jueves:
-**Enlace grabación reunión:** 
+**Enlace grabación reunión:** <https://drive.google.com/file/d/1RsBig3qpKsVJqgngaPQE7V3_ghm9ABSs>
 **Fecha:** Septiembre 30 de 2021
 #
 **Lider: Juan David Peñuela**
@@ -115,7 +115,7 @@
   3. ¿Qué dificultades ha tenido?: La falta de herramientas para blazor.
 ****************************************************************************************************
 ### Viernes:
-**Enlace grabación reunión:** 
+**Enlace grabación reunión:** <https://drive.google.com/file/d/1m1RC0wE-HcnngSixvnCcu3fR6uGp35CW>
 **Fecha:** Octubre 1 de 2021
 #
 **Lider: Juan David Peñuela**
