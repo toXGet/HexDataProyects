@@ -1,4 +1,4 @@
-### LUNES:
+### Lunes:
 **Enlace grabación reunión:** Reunión con la Tutoría  
 **Fecha:** Octubre 4 de 2021
 #
