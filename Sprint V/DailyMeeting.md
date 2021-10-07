@@ -13,9 +13,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Sin novedad
+  2. ¿Qué hará hoy? Paso a paso para subir el codigo a Github
+  3. ¿Qué dificultades ha tenido? No me carga la pagina, tengo un error en los Formularios
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -42,9 +42,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Subir el proyecto al GitHub
+  2. ¿Qué hará hoy? Tratar de solucionar el problema que presento
+  3. ¿Qué dificultades ha tenido? Problemas en los formularios del proyecto
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -71,9 +71,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Intentar solucionar el problema
+  2. ¿Qué hará hoy? Seguir intentando que el programa funcione
+  3. ¿Qué dificultades ha tenido? No he encontrado la solucion al problema, No he tenido tiempo para agendar la tutoria
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -100,9 +100,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer? 
-  2. ¿Qué hará hoy? 
-  3. ¿Qué dificultades ha tenido? 
+  1. ¿Qué hizo ayer? Sin novedad
+  2. ¿Qué hará hoy? Continuar paso a paso
+  3. ¿Qué dificultades ha tenido? Falta de tiempo
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
