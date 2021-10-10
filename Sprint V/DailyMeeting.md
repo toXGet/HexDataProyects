@@ -18,9 +18,9 @@
   3. ¿Qué dificultades ha tenido? No me carga la pagina, tengo un error en los Formularios
 #
 **Tester: William Andrés Rincón**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  . ¿Qué hizo ayer?revisar videos moodle
+  2.¿Qué hará hoy? Paso a paso  clase
+  3 . ¿Qué dificultades ha tenido?errores paso a paso
 #
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Sin novedad
@@ -47,9 +47,9 @@
   3. ¿Qué dificultades ha tenido? Problemas en los formularios del proyecto
 #
 **Tester: William Andrés Rincón**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1 . ¿Qué hizo ayer?    Sin novedad      
+  2 . ¿Qué hará hoy?  videos moodle
+  3 . ¿Qué dificultades ha tenido?  Sin novedad
 #
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Buscar en páginas sobre la incorporación de imágenes a la Barra de Herramientas
@@ -76,9 +76,9 @@
   3. ¿Qué dificultades ha tenido? No he encontrado la solucion al problema, No he tenido tiempo para agendar la tutoria
 #
 **Tester: William Andrés Rincón**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1 . ¿Qué hizo ayer?   Sin novedad 
+  2. ¿Qué hará hoy?   buscar videos desarrollo formularios
+  3 . ¿Qué dificultades ha tenido? problemas de errores en los formularios
 #
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Hacer el paso a paso.
@@ -105,9 +105,9 @@
   3. ¿Qué dificultades ha tenido? Falta de tiempo
 #
 **Tester: William Andrés Rincón**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer?  trabajar en  en los formularios
+  2 . ¿Qué hará hoy?  seguir paso a paso de la claseSin  Reunion grupo    
+  3 . ¿Qué dificultades ha tenido?  Sin novedad 
 #
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Terminé finalmente de lograr que la app corriera.
@@ -134,9 +134,9 @@
   3. ¿Qué dificultades ha tenido? 
 #
 **Tester: William Andrés Rincón**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer?  Reunion grupo
+  2. ¿Qué hará hoy?   realizar conexion a base de datos
+  3   . ¿Qué dificultades ha tenido? Sin novedad
 #
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: La conexión con la base de datos.
