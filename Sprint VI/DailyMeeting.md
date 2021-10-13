@@ -13,9 +13,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Sin novedad
+  2. ¿Qué hará hoy? Reunion con la tutora
+  3. ¿Qué dificultades ha tenido? No he podido hacer que funcione el selector multiple
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -42,9 +42,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Reunion con la tutora
+  2. ¿Qué hará hoy? Paso a paso
+  3. ¿Qué dificultades ha tenido? Poco tiempo
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -71,9 +71,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Paso a paso semana VI
+  2. ¿Qué hará hoy? Paso a paso
+  3. ¿Qué dificultades ha tenido? Poco tiempo
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
