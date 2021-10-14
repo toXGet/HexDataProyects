@@ -1,5 +1,5 @@
 ### Lunes:
-**Enlace grabación reunión:** Reunión con la Tutoría
+**Enlace grabación reunión:** Reunión con la Tutoría    
 **Fecha:** 11 de Octubre de 2021
 #
 **Lider: Juan David Peñuela**
@@ -28,7 +28,7 @@
   3. ¿Qué dificultades ha tenido?: Sin Novedad
 ****************************************************************************************************
 ### Martes:
-**Enlace grabación reunión:** No hubo Presencial. Comunicación por Whatsapp
+**Enlace grabación reunión:** No hubo Presencial. Comunicación por Whatsapp    
 **Fecha:** 12 de Octubre de 2021
 #
 **Lider: Juan David Peñuela**
@@ -57,7 +57,7 @@
   3. ¿Qué dificultades ha tenido?: Se me hace muy dispendioso un cambio en blazor son 3 hojas de código...
 ****************************************************************************************************
 ### Miercoles:
-**Enlace grabación reunión:** No hubo, interacciones via Whatsapp
+**Enlace grabación reunión:** No hubo, interacciones via Whatsapp    
 **Fecha:** 13 de Octubre de 2021
 #
 **Lider: Juan David Peñuela**
@@ -83,7 +83,7 @@
 **Administrador de Configuración: Carlos Zabala**
   1. ¿Qué hizo ayer?: Paso a paso 1 y parte del 2.
   2. ¿Qué hará hoy?: Terminar los paso a paso hasta el 3 para estar al día.
-  3. ¿Qué dificultades ha tenido?: Traté de hacer un submenu despelegable en la barra de navegación pero se necesita hacer 2 clases nuevas (entidades) 1 base de datos nueva y 2 instalaciones, para una simple navegaci
+  3. ¿Qué dificultades ha tenido?: Traté de hacer un submenu despelegable en la barra de navegación pero se necesita hacer 2 clases nuevas (entidades) 1 base de datos nueva y 2 instalaciones, para una simple navegación.
 ****************************************************************************************************
 ### Jueves:
 **Enlace grabación reunión:**
