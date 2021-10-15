@@ -100,9 +100,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer?Paso a paso
+  2. ¿Qué hará hoy? Diagrama de clases y ER
+  3. ¿Qué dificultades ha tenido? Poco tiempo
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
@@ -129,9 +129,9 @@
   3. ¿Qué dificultades ha tenido?
 #
 **Diseñador IU: Luz Mary Diaz**
-  1. ¿Qué hizo ayer?
-  2. ¿Qué hará hoy?
-  3. ¿Qué dificultades ha tenido?
+  1. ¿Qué hizo ayer? Diagrama de clases y ER
+  2. ¿Qué hará hoy? Sin novedad
+  3. ¿Qué dificultades ha tenido? Sin noviedad
 #
 **Tester: William Andrés Rincón**
   1. ¿Qué hizo ayer?
