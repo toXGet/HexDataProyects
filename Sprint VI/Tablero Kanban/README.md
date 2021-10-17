@@ -1,2 +1,2 @@
 # Tablero Kanban
-Sprint VI
+Capturas de Pantalla del Tablero Kanban del **Sprint VI**
